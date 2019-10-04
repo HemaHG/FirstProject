@@ -1,0 +1,7 @@
+Describtion
+
+Program calculate the power of number
+
+pow function
+
+    pow(num,power) => The function returns the power of  number
